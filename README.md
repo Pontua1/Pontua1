@@ -8,6 +8,10 @@
 
 **`Desenvolvedor Fullstack`**
 **`Estudante de Ciência de dados e IA - UFPB`**
+## Hugo Pontual
+
+**`Desenvolvedor Fullstack`**
+**`Estudante de Ciência de dados e IA - UFPB`**
 <p align="left">
     <a href="https://github.com/Pontua1?tab=repositories&sort=stargazers">
         <img 
@@ -110,18 +114,3 @@
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pontua1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
