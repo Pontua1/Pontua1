@@ -4,12 +4,6 @@
 - 🔭 I’m currently working on an inclusive project that relates healthcare to technology and AI.
 - 🌱 I’m currently learning about Python, SQL and Machine Learning.
 
-## Hugo Pontual
-
-**`Desenvolvedor Fullstack`**
-**`Estudante de Ciência de dados e IA - UFPB`**
-## Hugo Pontual
-
 **`Desenvolvedor Fullstack`**
 **`Estudante de Ciência de dados e IA - UFPB`**
 <p align="left">
