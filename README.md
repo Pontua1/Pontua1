@@ -6,6 +6,7 @@
 
 **`Desenvolvedor Fullstack`**
 **`Estudante de Ciência de dados e IA - UFPB`**
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
