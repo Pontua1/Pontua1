@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an inclusive project that relates healthcare to technology and AI.
 - 🌱 I’m currently learning about Python, SQL and Machine Learning.
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor`**
 **`Estudante de Ciência de dados e IA - UFPB`**
 
 ---
@@ -27,22 +27,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
