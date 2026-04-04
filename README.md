@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on an inclusive project that relates healthcare to technology and AI.
 - 🌱 I’m currently learning about Python, SQL and Machine Learning.
 
-**`Desenvolvedor`**
-**`Estudante de Ciência de dados e IA - UFPB`**
+**`Developer`**
+**`Data Science and AI - UFPB`**
 
 ---
 
