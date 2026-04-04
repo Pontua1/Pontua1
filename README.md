@@ -1,7 +1,7 @@
 ## Hugo Pontual
 
 
-- 🔭 I’m currently working on an inclusive project that relates healthcare to technology and AI.
+- 🔭 I’m working on an inclusive project that relates healthcare to technology and AI.
 - 🌱 I’m currently learning about Python, SQL and Machine Learning.
 
 **`Developer`**
