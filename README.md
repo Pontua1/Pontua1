@@ -9,7 +9,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Tools
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <img 
